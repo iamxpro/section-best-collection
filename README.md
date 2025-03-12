@@ -1,5 +1,5 @@
 # section-best-collection
-create custom best-collection section.
+Based on the Dawn theme.
 
 1. added files in assets folder: custom.css, custom.js, swiper-bundle.js.
 2. added best-collection.liquid in sections folder.
